@@ -1,0 +1,13 @@
+{{ partial "header.html" }}
+
+<header class="col-xs-12">
+  <h1 id="title">{{ .Title }}</h1>
+</header>
+
+<section class="col-xs-12">
+  {{ range .Data.Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
+</section>
+
+{{ partial "footer.html" }}

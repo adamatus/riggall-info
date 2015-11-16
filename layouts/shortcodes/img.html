@@ -1,0 +1,5 @@
+<div class="thumbnail img-project">
+  {{ with .Get "link"}} <a href="{{ .}}">{{ end }}
+    <img class="img-responsive" src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ if .Get "link" }}</a>{{ end }}
+</div>

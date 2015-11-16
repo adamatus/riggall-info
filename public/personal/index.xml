@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personals on riggall.info</title>
+    <link>http://localhost:1313/personal/</link>
+    <description>Recent content in Personals on riggall.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2015 12:14:09 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sailing</title>
+      <link>http://localhost:1313/personal/sailing/</link>
+      <pubDate>Sat, 14 Nov 2015 12:14:09 -0800</pubDate>
+      
+      <guid>http://localhost:1313/personal/sailing/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+  
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/J24-sailing.jpg&#34; alt=&#34;J/24 Sailing&#34; /&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Every time I go out on the water (or ice), I&amp;rsquo;m amazed at the power of the wind
+and the ingenuity of sailors over the years to harness it. The technology in
+sailing these days is amazing (see the AC72s from the recent America&amp;rsquo;s Cup or
+&lt;a href=&#34;http://www.sailrocket.com/&#34;&gt;Vestas Sail Rocket 2&lt;/a&gt;), but it is equally fun to cruise around
+in a decades old boat (or early generation Windsurfer).&lt;/p&gt;
+
+&lt;p&gt;I grew up sailing on a Sunfish and Barnett 1400. Since then I&amp;rsquo;ve tried to expose
+myself to as many different boats as possible, including a variety of dinghies
+(Laser, 420, Byte), keelboats (J/22, J/24, Capri 22, New York 36, Mull 34),
+scows (C, E, I-20), and even iceboats (DN) and remote-controlled boats (Odom).
+The only thing I&amp;rsquo;m missing is a proper catamaran experience, so if you&amp;rsquo;ve got a
+cat and want to sail, get it touch!&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+  
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/sailing-pirate.jpg&#34; alt=&#34;A scurvy pirate sailing a J/22&#34; /&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also a huge fan of windsurfing. I&amp;rsquo;m still learning, but get better every
+time I go out. I&amp;rsquo;ve also taken to snowkiting in the winters. One of these days
+I&amp;rsquo;ll get out on the water with the kite.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cycling</title>
+      <link>http://localhost:1313/personal/cycling/</link>
+      <pubDate>Fri, 14 Nov 2014 12:14:35 -0800</pubDate>
+      
+      <guid>http://localhost:1313/personal/cycling/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+  
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/beach-biking.jpg&#34; alt=&#34;Biking on the beach in Florida&#34; /&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Like many kids, I grew up biking around the neighborhood. In high school and
+college I dabbled in mountain biking. But it wasn&amp;rsquo;t until I arrived in Madison
+that I fully fell in love with biking. It&amp;rsquo;s amazing how much ground you can
+cover, how many interesting things you&amp;rsquo;ll pass, and how great you&amp;rsquo;ll feel after
+a long ride. These days I bike commute everywhere and try to get out on longs
+rides as often as possible.&lt;/p&gt;
+
+&lt;p&gt;In the past couple of years I&amp;rsquo;ve done several very fun fundraising rides,
+including the &lt;a href=&#34;http://www.scenicshore150/&#34;&gt;Scenic Shore 150&lt;/a&gt; and &lt;a href=&#34;http://www.csacoalition.org/events/bike-the-barns/&#34;&gt;Bike the Barns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can check out &lt;a href=&#34;http://www.youtube.com/embed/FgIb25iQIwo&#34;&gt;this fun video&lt;/a&gt; my team put together during the
+last Scenic Shore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homebrewing</title>
+      <link>http://localhost:1313/personal/homebrewing/</link>
+      <pubDate>Mon, 14 Oct 2013 12:14:19 -0800</pubDate>
+      
+      <guid>http://localhost:1313/personal/homebrewing/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+  
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/homebrew-bottles&#34; alt=&#34;A freshly bottle batch of homebrew&#34; /&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Homebrewing is pretty amazing. Start with a few simple ingredients, boil some
+stuff, leave it sitting around for a while, bottle it up, and end up with a
+delicious drink. When I have some more time I&amp;rsquo;ll compile the recipes we&amp;rsquo;ve used
+and details on how they turned out.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

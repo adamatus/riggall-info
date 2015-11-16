@@ -1,0 +1,11 @@
+<div class="col-sm-6">
+  <div class="panel panel-default same-height">
+    <div class="panel-heading">
+      <h3 class="panel-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    </div>
+    <div class="panel-body">
+      <a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}" class="img-responsive"></a>
+      <p>{{ .Params.summary }} <a href="{{ .Permalink }}"><span style="white-space: nowrap;">More <span class="octicon octicon-arrow-right"></span></span></a></p>
+    </div>
+  </div>
+</div>

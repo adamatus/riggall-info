@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on riggall.info</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on riggall.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2015 12:12:14 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mendota Breeze</title>
+      <link>http://localhost:1313/projects/mendota-breeze/</link>
+      <pubDate>Wed, 03 Jun 2015 12:12:14 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/mendota-breeze/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+   &lt;a href=&#34;http://wind.riggall.info&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/mendota-breeze.png&#34; alt=&#34;Mendota Breeze&#34; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;As a wind-junky (sailer/kiter/windersurfer), I&amp;rsquo;m always interested in the
+current wind conditions. For me, that&amp;rsquo;s the wind on Lake Mendota in Madison, WI.
+The Space Science and Engineering Center (SSEC) and Atmospheric and Oceanic
+Sciences (AOS) department at the University of Wisconsin-Madison maintain
+several instruments that measure the current weather and wind in the area. This
+data is freely provided by &lt;a href=&#34;http://metobs.ssec.wisc.edu/buoy/&#34; title=&#34;Lake Mendota Bouy&#34;&gt;the Lake Mendota Bouy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I wanted a quicklook summary of the recent conditions, so I coded up a project
+using &lt;a href=&#34;http://d3js.org&#34; title=&#34;d3.js&#34;&gt;d3.js&lt;/a&gt; to display data pulled and summarized from the AOS instruments.&lt;/p&gt;
+
+&lt;p&gt;You can check out the current condition &lt;a href=&#34;http://wind.riggall.info&#34; title=&#34;Current Lake Mendota Conditions&#34;&gt;here&lt;/a&gt;. The code is available at
+&lt;a href=&#34;https://github.com/adamatus/mendota-breeze&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>America&#39;s Cup 34 Analysis</title>
+      <link>http://localhost:1313/projects/ac34-analysis/</link>
+      <pubDate>Tue, 14 Oct 2014 12:13:00 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/ac34-analysis/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+   &lt;a href=&#34;http://adamatus.github.io/ac-34-analysis/&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/ac34-analysis-screenshot.png&#34; alt=&#34;Analysis Screenshot&#34; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;America&amp;rsquo;s Cup 34 was awesome. The new AC-72 catamarans were incredible. To help
+myself and others fully appreciate the speeds that these boats are capable of
+I&amp;rsquo;m creating this web-based interactive race analyzer. The end goal is to have
+detailed replays of the races, with additional information overlays
+(principally the apparent wind details).&lt;/p&gt;
+
+&lt;p&gt;This is currently very much a work in progress, as I work through integrating
+&lt;a href=&#34;http://d3js.org&#34; title=&#34;d3.js&#34;&gt;d3.js&lt;/a&gt; and &lt;a href=&#34;http://leafletjs.com/&#34;&gt;Leaflet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The America&amp;rsquo;s Cup Event Authority has provided detailed data on all of the
+races of the 34th America&amp;rsquo;s Cup (as well as the events leading up to the Cup).
+These data were previously available &lt;a href=&#34;http://noticeboard.americascup.com/Race-Data/&#34;&gt;here&lt;/a&gt;, but they seem to have been
+removed. I&amp;rsquo;ll try to locate the full dataset, but in the meantime, I&amp;rsquo;ve included
+the final race data in the repository.&lt;/p&gt;
+
+&lt;p&gt;You can check out the details of Race 19 (the final race) &lt;a href=&#34;http://adamatus.github.io/ac-34-analysis/&#34;&gt;here&lt;/a&gt;.
+The code is available at &lt;a href=&#34;https://github.com/adamatus/ac-34-analysis&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Talks</title>
+      <link>http://localhost:1313/projects/interactive-talks/</link>
+      <pubDate>Mon, 14 Jul 2014 12:12:49 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/interactive-talks/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+   &lt;a href=&#34;http://adamatus.github.io/interactive-talks&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/interactive-talk-science.png&#34; alt=&#34;Screenshot of a slide from an interactive talk&#34; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This framework allows for the creation of interactive slide decks to be shown
+using a modern web browser. By interactive, I mean fully interactive. Harnessing
+the power of d3.js we can draw figures directly from data, animate them, and
+make them respond in interesting ways to mouse interaction.&lt;/p&gt;
+
+&lt;p&gt;Like to get your hands dirty writing code? This framework is for you. Everything
+is pure HTML and javascript, with only a simple structure to power everything.
+With that simplicity come incredible flexibility and power. Anything you can do
+on the web can be embedded directly into your talk.&lt;/p&gt;
+
+&lt;p&gt;The framework was inspired by &lt;a href=&#34;&amp;quot;http://bost.ocks.org/&#34;&gt;Mike Bostock&amp;rsquo;s&lt;/a&gt; early highlight reel talks showing
+off the power of d3. I&amp;rsquo;ve considerably tweaked the framework to work with my
+presentation style and added some additional navigation functions.&lt;/p&gt;
+
+&lt;p&gt;You can view some demo slide shows &lt;a href=&#34;http://adamatus.github.io/interactive-talks&#34; title=&#34;Demo Page&#34;&gt;here&lt;/a&gt;. The code is available at &lt;a href=&#34;https://github.com/adamatus/interactive-talks&#34; title=&#34;Github Repository&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My .dotfiles</title>
+      <link>http://localhost:1313/projects/my-dotfiles/</link>
+      <pubDate>Mon, 23 Jun 2014 12:13:08 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/my-dotfiles/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+  
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/terminal-setup.png&#34; alt=&#34;Screenshot of my terminal&#34; /&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;These days I&amp;rsquo;m using a fork of Yan Pritzker&amp;rsquo;s (&lt;a href=&#34;https://github.com/skwp&#34;&gt;skwp&lt;/a&gt;) excellent
+&lt;a href=&#34;http://skwp.github.io/dotfiles/&#34;&gt;Yet Another Dotfile Repo (YADR)&lt;/a&gt;. The core of this setup is the trio of
+zsh, Vim, and tmux. The repo includes a number of nice Vim plugins, which
+I&amp;rsquo;ve supplemented with a number of additional Python-specific plugins.&lt;/p&gt;
+
+&lt;p&gt;You can access my fork on &lt;a href=&#34;https://github.com/adamatus/yadr-dotfiles&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Race-Style Random Drawing</title>
+      <link>http://localhost:1313/projects/race-style-random-drawing/</link>
+      <pubDate>Mon, 09 Sep 2013 12:13:21 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/race-style-random-drawing/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+   &lt;a href=&#34;http://adamatus.github.io/race-style-random-drawings/random-drawing.html&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/pony-race.png&#34; alt=&#34;Pony Race&#34; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Science is a very collaborative process, but not all of the tasks are
+particularly fun (e.g., putting an EEG cap on a research subject). To help
+encourage everyone in the lab to help each other out, we&amp;rsquo;ve developed a simple
+reward system. Anytime someone helps out another lab member with something, they
+get a point on the scoreboard. At the end of the month we have a drawing. Each
+persons name gets entered into the drawing as many times as they have points
+(i.e., more points == more chances to win). We then pick a winner and everyone
+else in the lab takes that person out for drinks.&lt;/p&gt;
+
+&lt;p&gt;We used to just use a hat and scraps of paper, the old fashioned way. We got
+tired of ripping up perfectly good scratch paper, and decided to go high-tech.
+Inspired by the horse-racing game at the WI State Fair, I coded up a
+browser-based race-style random drawing app. Each person picks a character, a
+color, and enters their point total for the month. When everyone is on the line,
+we run the race (purely random steps forward), and the first to cross the line
+wins!&lt;/p&gt;
+
+&lt;p&gt;You can have your own races &lt;a href=&#34;http://adamatus.github.io/race-style-random-drawings/random-drawing.html&#34;&gt;here&lt;/a&gt;. Should you want to change anything about it
+(e.g., add new icons), the code is available on &lt;a href=&#34;https://github.com/adamatus/race-style-random-drawings&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved GPS Activity Tracking</title>
+      <link>http://localhost:1313/projects/improved-gps-activity-tracking/</link>
+      <pubDate>Wed, 01 May 2013 12:13:38 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/improved-gps-activity-tracking/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;thumbnail img-project&#34;&gt;
+   &lt;a href=&#34;http://www.strava.com/activities/106617181&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;http://localhost:1313/images/activity-traces.png&#34; alt=&#34;Activity Traces&#34; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been using my iPhone to GPS track various activities for a number of years.
+I love how easy it is to integrate various data sources via ANT+ and the &lt;a href=&#34;http://www.wahoofitness.com/devices/wahoo-key.html&#34;&gt;Wahoo
+Fitness Key&lt;/a&gt;. Having heart rate, bike speed, and pedaling cadence tracked along
+with GPS is fantastic for post-activity review. I was never particularly happy
+with the GPS performance of the iPhone. When I directly compared the iPhone to a
+purpose-built GPS, the &lt;a href=&#34;http://www.locosystech.com/product.php?id=30&#34;&gt;Locosys GT-31&lt;/a&gt; (which I bought to use windsurfing and
+sailing), the results were as expected: the GPS tracks from the GT-31 were much
+more accurate.&lt;/p&gt;
+
+&lt;p&gt;I wanted the accurate GPS along with all the extra data collected by the iPhone,
+so I now carry both. To combine the two data sources I put together a simple
+script in R that replaces the GPS track in the iPhone data with the more
+accurate data from the GT-31. The script is available on &lt;a href=&#34;https://github.com/adamatus/gt31-plus-wahoo&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
