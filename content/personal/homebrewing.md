@@ -7,7 +7,7 @@ thumbnail = "/images/brewing.jpg"
 
 +++
 
-{{< img src="/images/homebrew-bottles" caption="A freshly bottle batch of homebrew" >}}
+{{< img src="/images/homebrew-bottles.jpg" caption="A freshly bottle batch of homebrew" >}}
 
 Homebrewing is pretty amazing. Start with a few simple ingredients, boil some 
 stuff, leave it sitting around for a while, bottle it up, and end up with a 
