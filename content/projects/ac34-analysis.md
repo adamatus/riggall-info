@@ -1,6 +1,6 @@
 +++
 date = "2014-10-14T12:13:00-08:00"
-draft = true
+draft = false 
 title = "America's Cup 34 Analysis"
 summary = "The 34th America's Cup was amazing. I'm in the process of building interactive, web-based tools to fully appreciate the speed with which the AC72's sailed."
 thumbnail = "/images/ac34-analysis-screenshot.png"

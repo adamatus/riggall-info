@@ -1,6 +1,6 @@
 +++
 date = "2015-11-14T12:14:09-08:00"
-draft = true
+draft = false
 title = "Sailing"
 summary = "I love wind sports! My grandmother first taught me to sail when I was little. I've loved it since. We recently purchased an old Cal 20 and are now enjoying sailing her on the Columbia River."
 thumbnail = "/images/barnett-sailing.jpg"

@@ -1,6 +1,6 @@
 +++
 date = "2013-05-01T12:13:38-08:00"
-draft = true
+draft = false
 title = "Improved GPS Activity Tracking"
 summary = "Tracking activity metrics with an iPhone is great. I love having a record of my HR and cadence. The GPS tracking on the iPhone is not so great. To supplement, I have a Locosys GT-31 GPS, which has great accuracy. Here's a little code to put them together."
 thumbnail = "/images/activity-map.png"

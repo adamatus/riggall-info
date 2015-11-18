@@ -1,6 +1,6 @@
 +++
 date = "2014-07-14T12:12:49-08:00"
-draft = true
+draft = false 
 title = "Interactive Talks"
 summary = "This framework allows for the creation of interactive slide decks to be shown using a modern web browser. Harnessing the power of d3.js we can draw figures directly from data, animate them, and make them respond in interesting ways to mouse interaction."
 thumbnail = "/images/interactive-talk-xkcd.png"

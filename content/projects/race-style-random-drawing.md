@@ -1,6 +1,6 @@
 +++
 date = "2013-09-09T12:13:21-08:00"
-draft = true
+draft = false
 title = "Race-Style Random Drawing"
 summary = "Need to pick a winner randomly? This web-based app will allow you to simulate random races (between ponies, bikes, and more). Allows for multiple entries per person (good for implementing unequal probabilities of winning)"
 thumbnail = "/images/pony-race.png"

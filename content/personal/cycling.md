@@ -1,6 +1,6 @@
 +++
 date = "2014-11-14T12:14:35-08:00"
-draft = true
+draft = false
 title = "Cycling"
 summary = "I love to get out on my bike and explore. I've been fortunate to be able to spend lots of time in great biking towns, including Madison, WI and Portland, OR. It's amazing what you can see from a bike."
 thumbnail = "/images/me-biking.jpg"

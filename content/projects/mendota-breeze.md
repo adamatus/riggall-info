@@ -1,6 +1,6 @@
 +++
 date = "2015-06-03T12:12:14-08:00"
-draft = true
+draft = false 
 title = "Mendota Breeze"
 summary = "As a wind-junky (sailer/kiter/windersurfer), I'm always interested in the current wind conditions. For me, that's the wind on Lake Mendota in Madison, WI.  I coded up a project using d3.js to display data pulled and summarized from the wind meters on the lake."
 thumbnail = "/images/mendota-breeze.png"
