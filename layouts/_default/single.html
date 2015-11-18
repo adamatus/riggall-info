@@ -6,6 +6,18 @@
 
 <section class="col-xs-12">
 {{ .Content }}
+
+  <ul class="pager">
+    <li class="previous {{ if not .NextInSection }}disabled{{ end }}">
+      <a href="{{if .NextInSection }}{{ .NextInSection.Permalink }}{{ end }}">&larr; Next</a>
+    </li>
+    <li class="next {{ if not .PrevInSection }}disabled{{ end }}">
+      <a href="{{if .PrevInSection}}{{ .PrevInSection.Permalink }}{{ end }}">Previous &rarr;</a>
+    </li>
+</ul>
+
 </section>
+
+
 
 {{ partial "footer.html" }}
