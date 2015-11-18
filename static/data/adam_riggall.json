@@ -1,0 +1,65 @@
+{
+  "@context" : "http://schema.org",
+  "@type" : "Person",
+  "name" : "Adam Riggall",
+  "givenName" : "Adam Charles",
+  "familyName" : "Riggall",
+  "honorificSuffix": "PhD",
+  "jobTitle": "Senior Software Engineer",
+  "url": "https://www.riggall.info",
+  "email": "adam@riggall.info",
+  "description": "Coder, sailer, fan of science.",
+  "image": [
+    {
+      "@context" : "http://schema.org",
+      "@type" : "ImageObject",
+      "contentUrl": "https://www.riggall.info/images/adam_riggall.jpg",
+      "caption": "Photo of Adam Riggall"
+    },
+    {
+      "@context" : "http://schema.org",
+      "@type" : "ImageObject",
+      "contentUrl": "https://www.riggall.info/images/adam_riggall_2.jpg",
+      "caption": "Photo of Adam Riggall"
+    }
+  ],
+  "worksFor": {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name": "Nike",
+    "url": "http://www.nike.com",
+    "brand": {
+      "@context" : "http://schema.org",
+      "@type" : "Brand",
+      "name": "NIKEiD"
+    }
+  },
+  "alumniOf": [
+    {
+      "@context" : "http://schema.org",
+      "@type" : "EducationalOrganization",
+      "name": "University of Wisconsin-Madison",
+      "department": {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name": "Psychology"
+      }
+    },
+    {
+      "@context" : "http://schema.org",
+      "@type" : "EducationalOrganization",
+      "name": "Dartmouth College",
+      "department": {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name": "Psychology and Brain Sciences"
+      }
+    }
+  ],
+  "sameAs" : [
+    "https://www.github.com/adamatus",
+    "https://www.facebook.com/adam.riggall",
+    "https://www.linkedin.com/in/adamriggall",
+    "https://plus.google.com/+AdamRiggall"
+  ]
+}
